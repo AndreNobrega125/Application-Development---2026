@@ -1,0 +1,41 @@
+h2 {
+color: #1A3C6E;
+text-align: center;
+}
+
+h3 {
+    color: #2B5BA8;
+}
+
+table {
+    text-align: center;
+    width: 60%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+       
+}
+
+th {
+    background-color: #2B5BA8;
+    color: white;
+    text-align: center;
+}
+
+tr:nth-child(even) {
+    background-color: #e8f0ff;
+    text-align: left;
+}
+
+a {
+    color: #2B5BA8;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
