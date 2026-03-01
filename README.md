@@ -7,8 +7,8 @@ Projeto desenvolvido como atividade acadêmica na **FIAP**, aplicando os conceit
 ## 📁 Estrutura do Projeto
 
  Sites/
-├── index.html → Página institucional da NexaCore
-├── style.css → Estilos da página NexaCore
+├── startup.html → Página institucional da NexaCore
+├── startup.css → Estilos da página NexaCore
 ├── curriculo.html → Currículo pessoal
 └── curriculo.css → Estilos do currículo
 
