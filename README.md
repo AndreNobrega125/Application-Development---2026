@@ -64,7 +64,7 @@ Currículo pessoal em HTML com informações acadêmicas, habilidades técnicas 
 **André Ayello de Nobrega**  
 Estudante de Ciência da Computação — FIAP  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andré-nobrega/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AndreNobrega)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/AndreNobrega125)
 
 ---
 
